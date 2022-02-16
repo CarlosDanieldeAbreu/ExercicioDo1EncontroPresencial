@@ -55,15 +55,13 @@ namespace Ex5.ConsoleApp
                 {
                     Console.WriteLine("Houve empate");
                 }
-
-                Console.WriteLine("");
+                Console.ReadLine();
             }
             if (contadorVitoriaJ1 == contadorVitoriaJ2)
             {
                 adicionarRodada = 1;
             }
 
-            Console.WriteLine(" ");
             if(contadorVitoriaJ1 > contadorVitoriaJ2)
             {
                 Console.WriteLine("Parabéns " + nomeJ1 + ", Você ganhou o jogo!");
