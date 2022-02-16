@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2aaa8ba7-87f1-4a91-98da-6c8b92c5ec94": {
+      "ProjectGuid": "2aaa8ba7-87f1-4a91-98da-6c8b92c5ec94",
+      "DisplayName": "AtividadePresencial.ConsoleApp",
+      "ColorIndex": 0
+    },
+    "166a96e1-5d7f-4acd-a8f6-14fafae41e00": {
+      "ProjectGuid": "166a96e1-5d7f-4acd-a8f6-14fafae41e00",
+      "DisplayName": "Ex1.ConsoleApp",
+      "ColorIndex": 1
+    },
+    "f6cecef3-27f9-4720-a871-75a0d7adee3d": {
+      "ProjectGuid": "f6cecef3-27f9-4720-a871-75a0d7adee3d",
+      "DisplayName": "Ex2.ConsoleApp",
+      "ColorIndex": 2
+    },
+    "992b2513-f3af-4c19-a754-095028deb014": {
+      "ProjectGuid": "992b2513-f3af-4c19-a754-095028deb014",
+      "DisplayName": "Ex3.ConsoleApp",
+      "ColorIndex": 3
+    },
+    "555c2f93-b52c-4119-b06d-87e87dd5b6bd": {
+      "ProjectGuid": "555c2f93-b52c-4119-b06d-87e87dd5b6bd",
+      "DisplayName": "Ex4.ConsoleApp",
+      "ColorIndex": 4
+    },
+    "20adbbf3-c745-48e2-a651-dd2b792fa089": {
+      "ProjectGuid": "20adbbf3-c745-48e2-a651-dd2b792fa089",
+      "DisplayName": "Ex5.ConsoleApp",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
